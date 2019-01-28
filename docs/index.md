@@ -1,0 +1,3 @@
+After graduated from Department of Astronomy, Nanjing University at 1960, Qiu-he Peng  teached at Peking University for 18 years and then is teaching at Nanjing University.
+
+Q. Peng is mainly engaged in nuclear astrophysics , particle astrophysics and galactic astronomy research. In the field of nuclear astrophysics, Peng’s researches involve neutron stars (pulsars), the supernova explosion mechanism and the thermonuclear reaction inside the star, the synthesis of heavy elements and interstellar radioactive element such as the origin of celestial 26Al.  225  papers of him have be published。
