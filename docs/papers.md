@@ -598,7 +598,6 @@ title: Papers of Qiuhe Peng
 179. \* 赵应和,彭秋和,胡涛,2006,  
      **A new method to determine the thickness of non-edge-on disk galaxies**  
      Astronomy & Astrophysics, 452 (2006) 451-457
-
 180. \* Qiu-he Peng, 2006,  
      **An alternative way of nucleosynthesis for 26Al and its origin from both SNII and SNIa**   
      New Astrnomy Review 50 (2006) 481-483
