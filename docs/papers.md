@@ -186,7 +186,7 @@ title: Papers of Qiuhe Peng
 55. 彭秋和,  
     **Studies of The Structure of Three Dimensional Disk - like Galaxies**      
     Proceedings of Third China-Japan Workshop On Galaxies, P.72, 1987.
-56. \* Gang Zhao, Yonggheng Zhao, Jiasheng Huang, Lonlong Feng, Keliang Huang, Qiuhe Peng, Tan Lu  
+56. \* Gang Zhao, Yonggheng Zhao, Jiasheng Huang, Lonlong Feng, Keliang Huang, Qiuhe Peng, Tan Lu,   
     **Neutrino mass, luminosity variation, and spectrum of SN1987A**  
     Asstrophysics and Space science, 141, 169, 1988.
 57. \* 彭秋和,  
@@ -199,7 +199,7 @@ title: Papers of Qiuhe Peng
     **超新星 1987A 中微子事件的研究**  
     天文学报, 29, 146, 1988.
 60. \* 赵永恒,陆埮,黄克谅,彭秋和,  
-    Gamma-ray Emission From Pulsars  
+    **Gamma-ray Emission From Pulsars**  
     A.Ap, 233, 147, 1989.
 61. \* 彭秋和,  
     **The Critical and Saturation Content of Magnetic Monopoles In Rotating Relativistic Objects**  
