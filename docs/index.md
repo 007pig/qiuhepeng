@@ -1,5 +1,5 @@
 ---
-Title: Qiuhe Peng's Personal Website
+title: Qiuhe Peng's Personal Website
 ---
 
 After graduated from Department of Astronomy, Nanjing University at 1960, Qiu-he Peng  teached at Peking University for 18 years and then is teaching at Nanjing University.
@@ -38,4 +38,4 @@ Papers in recent years
     **"A unified model of supernova driven by magnetic monopoles"**  
     Astrophys Space Sci (2017) 362:222
 
-For a list of papers of him, please [click here](papers.md).
+For a complete list of papers, please [click here](papers.md).
