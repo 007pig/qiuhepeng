@@ -505,8 +505,7 @@ title: Papers of Qiuhe Peng
      Astrophysics and Space Science, 282 (2002) 499-522
 152. \* Zhang Ming, Han Jin-lin and Peng Qiu-he,  
     **A Study on the Sagittarius-Carina Arm and the Halo Mass of Our Galaxy**  
-    Chinese Astronomy and Astrophysics 26 (2002) 267  
-    
+    Chinese Astronomy and Astrophysics 26 (2002) 267    
     张明,韩金林,彭秋和,  
     **对银河系 Sagittarius – Carina 旋臂和晕质量的研究**  
     天文学报, 43 (2002) 24-32
