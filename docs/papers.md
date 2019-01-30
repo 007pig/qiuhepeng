@@ -73,7 +73,7 @@ title: Papers of Qiuhe Peng
     **Neutrino Cyclotron Radiation From Superfluid Vortexes in Neutron Stars: A New Mechanism For Pulsar Spin Down**  
     A.Ap, 107, 258, 1982.
 21. \* 黄介浩,彭秋和,黄克谅,   
-    **Thermal X-Ray Emission From Isolated Older Pulsars: A New Heating Mechanism**
+    **Thermal X-Ray Emission From Isolated Older Pulsars: A New Heating Mechanism**  
     A.Ap, 113, 9, 1982.
 22. 童彝,吴至谷,彭秋和,  
     **旋涡星系的厚度估算**  
@@ -110,7 +110,7 @@ title: Papers of Qiuhe Peng
     天文学报, 25, 356, 1984.
     Chinese A.Ap., 10, 162, 1986.
 33. 王德焴,彭秋和,李宗云,    
-    银河系中心正负电子湮灭线与磁单极天体模型    
+    **银河系中心正负电子湮灭线与磁单极天体模型**    
     科学通报, 19, 1186, 1984.  
 	  Kexue Tongbao, 30, 210, 1985 (英文版).
 34. \* 王永久,彭秋和,     
@@ -127,7 +127,7 @@ title: Papers of Qiuhe Peng
     |Z| distribution and age of pulsars.  
     A.Ap, 152, 89, 1985.
 38. \* 彭秋和,李宗云,王德焴,    
-    **天体 (类星体,星系核和恒星) 内部的磁单极含量及其效应** 
+    **天体 (类星体,星系核和恒星) 内部的磁单极含量及其效应**  
     中国科学A辑, NO.5, P.466, 1985.  
     Scientia Sinica (SerriesA) ⅩⅩⅧ, 970, 1985 (英文版).
 39. 彭秋和,王德焴,李宗云,  
@@ -183,36 +183,45 @@ title: Papers of Qiuhe Peng
 54. \* 王德焴,彭秋和,陈廷扬,  
     **A Model of Galactic Center With Magnetic Monopoles**  
     Ap.S.S, 118, 379, 1986.
-55.彭秋和,    Studies of The Structure of Three Dimensional 
-Disk- like Galaxies.    
-Proceedings of Third China-Japan Workshop On Galaxies, P.72,1987.
-*56.Gang Zhao, Yonggheng Zhao, Jiasheng Huang, Lonlong Feng, Keliang Huang, Qiuhe Peng, Tan Lu.  
- Neutrino mass, luminosity variation, and spectrum of SN1987A. Asstrophysics and Space science,141,169,1988.
-*57.彭秋和,   
-A method of determining the thickness of spiral galaxies by solution of the three-dimensional Poisson equation. 
-Astronomy and Astrophysics,206, 18,1988.
-*58.彭秋和,   Theoretical Studies of 3-Dimensional Disk Galaxies and Determination of The Thickness of Galaxies   
-Vistas in Astronomy,31,569,1988.
-59.赵 刚,赵永恒,黄家声,冯珑珑,黄克谅,彭秋和,陆 埮. 
-     超新星1987A中微子事件的研究.    
-天文学报,29,146, 1988.
-*60.赵永恒,陆 埮,黄克谅,彭秋和,    
-Gamma-ray Emission From Pulsars.  
-         A.Ap,233,147,1989.
-*61.彭秋和,   The Critical and Saturation Content of Magnetic Monopoles In Rotating Relativistic Objects.   Ap.S.S.154,271,1989.
-62.彭秋和,   An Exponential Disk Model of 3-D Galaxies and a New Method of Determining the Thickness of Galaxies.   Poster Proceeding IAU Symposium, NO.144, P.103,1990.
-63.彭秋和,   The Gravitational Entropy of Objects <High Energy Astrophysics:Compact Stars and Active Galacties> 
-             Proc. of the 3rd Chinese Academy of Sciences and Max - Planck Society Workshop,
-     ed.Li Qibin, World Scientific Publ.Co.Pte.Ltd., P.289, 1991.
-64.彭秋和,  
-三维盘状星系的研究 I.星系盘外部的指数分布模型. 
-        天文学报, 33, 362, 1992.
-65.商朝晖,鲍梦贤,张文元,彭秋和,   
-              三维旋涡星系厚度的测定.   
-天文学报,33,371,1992.
-66.何建华,杨锦晴,彭秋和,      CNO 燃烧核反应的研究. 
-                天体物理学报,12,122,1992.
-67.彭秋和,  三维盘状星系的研究 II.星系中心(r)与星系盘的整体模型.       天文学报,34,130,1993.
+55. 彭秋和,  
+    **Studies of The Structure of Three Dimensional Disk - like Galaxies**      
+    Proceedings of Third China-Japan Workshop On Galaxies, P.72, 1987.
+56. \* Gang Zhao, Yonggheng Zhao, Jiasheng Huang, Lonlong Feng, Keliang Huang, Qiuhe Peng, Tan Lu  
+    **Neutrino mass, luminosity variation, and spectrum of SN1987A**  
+    Asstrophysics and Space science, 141, 169, 1988.
+57. \* 彭秋和,  
+    **A method of determining the thickness of spiral galaxies by solution of the three-dimensional Poisson equation**  
+    Astronomy and Astrophysics, 206, 18, 1988.
+58. \* 彭秋和,  
+    **Theoretical Studies of 3-Dimensional Disk Galaxies and Determination of The Thickness of Galaxies**  
+    Vistas in Astronomy, 31, 569, 1988.
+59. 赵刚,赵永恒,黄家声,冯珑珑,黄克谅,彭秋和,陆埮,  
+    **超新星 1987A 中微子事件的研究**  
+    天文学报, 29, 146, 1988.
+60. \* 赵永恒,陆埮,黄克谅,彭秋和,  
+    Gamma-ray Emission From Pulsars  
+    A.Ap, 233, 147, 1989.
+61. \* 彭秋和,  
+    **The Critical and Saturation Content of Magnetic Monopoles In Rotating Relativistic Objects**  
+    Ap.S.S, 154, 271, 1989.
+62. 彭秋和,  
+    **An Exponential Disk Model of 3-D Galaxies and a New Method of Determining the Thickness of Galaxies**  
+    Poster Proceeding IAU Symposium, NO.144, P.103, 1990.
+63. 彭秋和,  
+    **The Gravitational Entropy of Objects \<High Energy Astrophysics: Compact Stars and Active Galacties\>**  
+    Proc. of the 3rd Chinese Academy of Sciences and Max - Planck Society Workshop,  
+    ed.Li Qibin, World Scientific Publ.Co.Pte.Ltd., P.289, 1991.
+64. 彭秋和,  
+    三维盘状星系的研究 I. 星系盘外部的指数分布模型  
+    天文学报, 33, 362, 1992.
+65. 商朝晖,鲍梦贤,张文元,彭秋和,  
+    **三维旋涡星系厚度的测定**  
+    天文学报, 33, 371, 1992.
+66. 何建华,杨锦晴,彭秋和,  
+    **CNO 燃烧核反应的研究**  
+    天体物理学报, 12, 122, 1992.
+67. 彭秋和,  
+    三维盘状星系的研究 II. 星系中心 $$ 5 + 5 $$ (r)与星系盘的整体模型.       天文学报,34,130,1993.
 *68.彭秋和,初 一,谢敬东,杨咏红,  
 星际γ射线谱线辐射流量的估计和来源探讨.
 Ⅰ.SNⅡ和SNⅠb 的贡献. 
