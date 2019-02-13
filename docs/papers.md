@@ -1,7 +1,7 @@
 ---
 title: Papers of Qiuhe Peng
 ---
-彭秋和发表的论文总目录 (按时间次序,带*者为SCI杂志文献):
+彭秋和发表的论文总目录 (按时间次序，带*者为SCI杂志文献。如果标题为链接，点击可下载):
 
 1. 彭秋和等,  
    **1971年1-4月太阳 H⍺ 谱斑亮度,面积的极大耀斑的相关性**  
@@ -70,7 +70,7 @@ title: Papers of Qiuhe Peng
     **天体的磁场是如何维持的**  
     自然杂志, 4, 354, 1981.
 20. \* 彭秋和,黄克谅,黄介浩,       
-    **Neutrino Cyclotron Radiation From Superfluid Vortexes in Neutron Stars: A New Mechanism For Pulsar Spin Down**  
+    **[Neutrino Cyclotron Radiation From Superfluid Vortexes in Neutron Stars: A New Mechanism For Pulsar Spin Down](https://github.com/007pig/qiuhepeng/raw/master/papers/20.%20Neutrino%20Cyclotron%20Radiation%20From%20Superfluid%20Vortexes%20in%20Neutron%20Stars%20-%20A%20New%20Mechanism%20For%20Pulsar%20Spin%20Down.pdf)**  
     A.Ap, 107, 258, 1982.
 21. \* 黄介浩,彭秋和,黄克谅,   
     **Thermal X-Ray Emission From Isolated Older Pulsars: A New Heating Mechanism**  
