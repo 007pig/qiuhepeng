@@ -755,7 +755,7 @@ title: Papers of Qiuhe Peng
      Astrophys Space Sci (2016) 361:388  
      DOI: 10.1007/s10509-016-2977-8
 226. Qiu-He Peng, Jing-Jing Liu and Zhong-Qi Ma, 2017,  
-     **Some new possible anticipated signals for existence of magnetic monopoles?**  
+     **Some new possible anticipated signals for existence of magnetic monopoles**  
      New Astronomy, 57 (2017) 59-62
 227. Qiuhe Peng, Jing-Jing Liu and  Chi-Kang Chou, 2017,  
      **A unified model of supernova driven by magnetic monopoles**  
