@@ -73,7 +73,7 @@ title: Papers of Qiuhe Peng
     **[Neutrino Cyclotron Radiation From Superfluid Vortexes in Neutron Stars: A New Mechanism For Pulsar Spin Down](https://github.com/007pig/qiuhepeng/raw/master/papers/20.%20Neutrino%20Cyclotron%20Radiation%20From%20Superfluid%20Vortexes%20in%20Neutron%20Stars%20-%20A%20New%20Mechanism%20For%20Pulsar%20Spin%20Down.pdf)**  
     A.Ap, 107, 258, 1982.
 21. \* 黄介浩,彭秋和,黄克谅,   
-    **Thermal X-Ray Emission From Isolated Older Pulsars: A New Heating Mechanism**  
+    **[Thermal X-Ray Emission From Isolated Older Pulsars: A New Heating Mechanism](https://github.com/007pig/qiuhepeng/raw/master/papers/21.%20Thermal%20X-Ray%20Emission%20From%20Isolated%20Older%20Pulsars%20-%20A%20New%20Heating%20Mechanism.pdf)**  
     A.Ap, 113, 9, 1982.
 22. 童彝,吴至谷,彭秋和,  
     **旋涡星系的厚度估算**  
@@ -97,7 +97,7 @@ title: Papers of Qiuhe Peng
     **三维旋涡星系的基态引力势**   
     中国科学 (A辑), NO.6, P.546, 1983.
 29. \* 黄介浩,黄克谅,彭秋和,      
-    **Pulsar Statistics and Two Types of Pulsars**  
+    **[Pulsar Statistics and Two Types of Pulsars](https://github.com/007pig/qiuhepeng/raw/master/papers/29.%20Pulsar%20Statistics%20and%20Two%20Types%20of%20Pulsars.pdf)**  
     A.Ap, 117, 205, 1983.
 30. 王永久,彭秋和,  
     **一类致密天体的引力性质**  
@@ -626,7 +626,7 @@ title: Papers of Qiuhe Peng
      **The Origin of magnetars – The role of anisotropic neutron superfluid of neutron stars**  
      CJAA 6 (2006) 175-182 Suppl. 2 248-253
 189. \* Qiu-he Peng and Hao Tong, 2007,  
-     **The Physics of Strong magnetic fields in neutron stars**  
+     **[The Physics of Strong magnetic fields in neutron stars](https://github.com/007pig/qiuhepeng/raw/master/papers/187.%20The%20Physics%20of%20Strong%20magnetic%20fields%20in%20neutron%20stars.pdf)**  
      Mon. Not. R. Astron. Soc. 378, 159-162 (2007)
 190. \* Tong H., Peng Q. H., 2007,   
      **Improbability of DUrca process constraints EOS**  
@@ -740,25 +740,25 @@ title: Papers of Qiuhe Peng
      DOI: 10.1051/epjconf/201610903001,  
      ©Owned by the authors, published by EDP Sciences, 2016
 222. Qiu-he Peng, Jie Zhang, Men-quan Liu, Chich-gang Chou, 2016,  
-     **Origin of Strong Magnetic Fields of Magnetars**   
+     **[Origin of Strong Magnetic Fields of Magnetars](https://github.com/007pig/qiuhepeng/raw/master/papers/220.%20Origin%20of%20Strong%20Magnetic%20Fields%20of%20Magnetars.pdf)**   
      Universal Journal of Physics and Application 10(3): 68-71, 2016 http://www.hrpub.org  
      DOI: 10.13189/ujpa.2016.100302 
 223. Qiu-he Peng, Jie Zhang, Chih-kang Chou, Zhi-fu Gao, 2016,  
-     **The Physics of Magnetars II - The Electron Fermi Energy of and the Origin of High X-ray Luminosity of Magnetars**  
+     **[The Physics of Magnetars II - The Electron Fermi Energy of and the Origin of High X-ray Luminosity of Magnetars](https://github.com/007pig/qiuhepeng/raw/master/papers/221.%20The%20Physics%20of%20Magnetars%20II%20-%20The%20Electron%20Fermi%20Energy%20of%20and%20the%20Origin%20of%20High%20X-ray%20Luminosity%20of%20Magnetars.pdf)**  
      Universal Journal of Physics and Application 10(3): 72-79, 2016 http://www.hrpub.org   
      DOI: 10.13189/ujpa.2016.100303
 224. 彭秋和, 2016,  
-     **银河系中心黑洞模型失效和磁单极存在的天文观测证据**  
+     **[银河系中心黑洞模型失效和磁单极存在的天文观测证据](https://github.com/007pig/qiuhepeng/raw/master/papers/222.%20%E9%93%B6%E6%B2%B3%E7%B3%BB%E4%B8%AD%E5%BF%83%E9%BB%91%E6%B4%9E%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%95%88%E5%92%8C%E7%A3%81%E5%8D%95%E6%9E%81%E5%AD%98%E5%9C%A8%E7%9A%84%E5%A4%A9%E6%96%87%E8%A7%82%E6%B5%8B%E8%AF%81%E6%8D%AE.pdf)**  
      <科学通报>, 2016 年, 第 61 卷 第 26 期：1 ~ 7
 225. Qiu-He Peng, Jing-Jing Liu and Chi-Kang Chou, 2016,   
-     **A possible influence on standard model of quasars and active galactic nuclei in strong magnetic field**   
+     **[A possible influence on standard model of quasars and active galactic nuclei in strong magnetic field](https://github.com/007pig/qiuhepeng/raw/master/papers/223.%20A%20possible%20influence%20on%20standard%20model%20of%20quasars%20and%20active%20galactic%20nuclei%20in%20strong%20magnetic%20field.pdf)**   
      Astrophys Space Sci (2016) 361:388  
      DOI: 10.1007/s10509-016-2977-8
 226. Qiu-He Peng, Jing-Jing Liu and Zhong-Qi Ma, 2017,  
-     **Some new possible anticipated signals for existence of magnetic monopoles**  
+     **[Some new possible anticipated signals for existence of magnetic monopoles](https://github.com/007pig/qiuhepeng/raw/master/papers/224.%20Some%20new%20possible%20anticipated%20signals%20for%20existence%20of%20magnetic%20monopoles.pdf)**  
      New Astronomy, 57 (2017) 59-62
 227. Qiuhe Peng, Jing-Jing Liu and  Chi-Kang Chou, 2017,  
-     **A unified model of supernova driven by magnetic monopoles**  
+     **[A unified model of supernova driven by magnetic monopoles](https://github.com/007pig/qiuhepeng/raw/master/papers/225.%20A%20unified%20model%20of%20supernova%20driven%20by%20magnetic%20monopoles.pdf)**  
      Astrophys Space Sci (2017) 362:222  
      DOI 10.1007/s10509-017-3201-1
 
