@@ -389,7 +389,7 @@ title: Papers of Qiuhe Peng
      **外赋 AGB 星星风吸积的角动量守恒模型**  
      天文学报, 39 (1998) 424
 120. \* 彭秋和,邹志刚,  
-     **A Model of Quasars and AGNs With Magnetic Monopoles**  
+     **[A Model of Quasars and AGNs With Magnetic Monopoles](https://github.com/007pig/qiuhepeng/raw/master/papers/120.%20A%20Model%20of%20Quasars%20and%20AGNs%20With%20Magnetic%20Monopoles.pdf)**  
      Astrophysics and Space Science, 257 (1998) 149
 121. \* 张波,张彦霞,李冀,梁艳春,彭秋和,  
      **Abundance of Heavy Elements in Ultra-Metal-Poor Star CS 22892-052**    
@@ -428,7 +428,7 @@ title: Papers of Qiuhe Peng
      **The Role of The Outer Boundary Condition in Accretion Disk Models: Theory and Application**    
      ApJ, 537 (2000) 236-244
 133. \* 彭秋和,  
-     **High-Energy Radiation from a Model Quasars, AGNs, and the Galactic Center With Magnetic Monopoles**   
+     **[High-Energy Radiation from a Model Quasars, AGNs, and the Galactic Center With Magnetic Monopoles](https://github.com/007pig/qiuhepeng/raw/master/papers/133.%20High-Energy%20Radiation%20from%20a%20Model%20Quasars%2C%20AGNs%2C%20and%20the%20Galactic%20Center%20With%20Magnetic%20Monopoles.pdf)**   
      in < Highly Energetic Physical Processes And Mechanisms For Emission From Astrophysical Plasmas>,  
      IAU Symposium No. 195, 2000, eds. P.C.H.  
      Martens, S. Tsuruta and M.A. Weber, p.421
